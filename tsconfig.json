@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "module": "ESNext",
+        "target": "ES5",
+        "esModuleInterop": true,
+        "jsx": "react",
+        "allowJs": true,
+        "moduleResolution": "Node"
+    },
+    "include": ["src/**/*.*"]
+}
